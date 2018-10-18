@@ -1,1 +1,44 @@
+body {
+  padding: 20px;
+  font-family: 'Nanum Gothic Coding', monospace;
+}
 
+.app {
+  background-color: lavender;
+  width: 80%;
+  max-width: 1200px;
+  margin: 0 auto;
+  border: 1px solid #d4aaff;
+  border-radius: 7%;
+  text-align: center;
+}
+
+
+.contactForm {
+ 
+  justify-content: center;
+  padding: 50px;
+  text-align: center;
+}
+
+.contactItem {
+  display: inline-block;
+  margin: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+button{
+  background-color: #f0defe;
+}
+
+input {
+  border-radius: 7%;
+  text-align: center;
+}
+
+.contactImage {
+  width: 90px;
+}
